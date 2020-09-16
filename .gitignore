@@ -1,0 +1,10 @@
+.DS_Store
+._*
+*~
+*.log
+.idea
+.vscode/
+coverage
+node_modules/
+/www/
+/stats.json
